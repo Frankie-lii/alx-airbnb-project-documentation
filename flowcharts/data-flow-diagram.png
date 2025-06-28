@@ -1,0 +1,30 @@
+(Start)
+   ↓
+[User logs in]
+   ↓
+[Search for properties]
+   ↓
+[Filter results]
+   ↓
+[Select property]
+   ↓
+[Enter dates]
+   ↓
+<Check availability>
+   ↓ Yes         ↘ No
+[Calculate price]   [Show error]
+   ↓
+[Confirm booking]
+   ↓
+[Create booking record]
+   ↓
+[Make payment]
+   ↓
+<Payment successful?>
+   ↓ Yes         ↘ No
+[Mark as booked]  [Cancel booking]
+   ↓
+[Send confirmation]
+   ↓
+(End)
+
